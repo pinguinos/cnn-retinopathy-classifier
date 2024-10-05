@@ -6,6 +6,9 @@ Retinopathy image dataset is downloaded from kaggle.com.
 - Num of images : 5590 (Test: 1928; Training: 3662)
 - Image format  : JPEG 
 
+Another Kaggle dataset used often in research papers (Raklin, 2017(https://www.biorxiv.org/content/biorxiv/early/2018/06/19/225508.full.pdf)) is provided by EyePACS consisting of 88,696 images at 88.29 GB: [Diabetic Retinopathy Detection Dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
+(Raklin, 2017 [local copy](../papers/dr_detection_through_integration_of_dl_classification.pdf), [https://www.biorxiv.org/content/biorxiv/early/2018/06/19/225508.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2018/06/19/225508.full.pdf))
+
 ## Download data source
 
 Retina fundus mages are downloaded using [Kaggle API](https://github.com/Kaggle/kaggle-api/blob/main/docs/README.md)
