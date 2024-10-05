@@ -14,10 +14,8 @@ Convolutional neural networks (CNNs) has been effectively analyze medical images
 Alsuwat, M., Alalawi, H., Alhazmi, S., & Al-Shareef, S. (2022). Prediction of diabetic retinopathy using convolutional neural networks. *International Journal of Advanced Computer Science and Applications*, 13(7). [local pdf](./papers/Prediction_of_Diabetic_Retinopathy_using_Convolutional_Neural_Networks.pdf), [https://doi.org/10.14569/ijacsa.2022.0130798](https://doi.org/10.14569/ijacsa.2022.0130798) 
 
 **Plan:**
-- Data Collection: \<TBD\>
+- Data Aquisition: [documentation](./documentation/data_acquisition.md) 
 - Data Processing: \<TBD\>
 - Model Design: \<TBD\>
 - Model Training: \<TBD\>
 - Evaluation: \<TBD\>
-
-(the above should cover this excercise from end to end?)
