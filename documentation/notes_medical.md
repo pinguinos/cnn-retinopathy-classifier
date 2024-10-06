@@ -1,9 +1,10 @@
-Jogging down some notes ..
+Jogging down some notes .. in nature sorting order:
 
-(in nature order sorting)
-
-### diabetic retinopathy (DR severity): 
-![DR symptom](../images/dr_severity.png) Image credit: Nneji et al., 2022 [local pdf](../papers/Identification_of_dr_using_weight_fusion_dl.pdf), [https://www.mdpi.com/2075-4418/12/2/540](https://www.mdpi.com/2075-4418/12/2/540)
+### diabetic retinopathy (DR) severity: 
+![DR symptom](../images/dr_severity.jpg) Image credit: Nneji et al., 2022 (
+    [local](../papers/Identification_of_dr_using_weight_fusion_dl.pdf), 
+    [remote](https://www.mdpi.com/2075-4418/12/2/540)
+)
 
 DR severity has four classification levels:
 1 : Mild nonproliferative DR. Small red dots on the retina in fundus image (known as microeurysms).
@@ -14,7 +15,7 @@ DR severity has four classification levels:
 
 ### fundus:
 the inside back surface of the eye. It consists of retina, macula, optic disc, fovea, blood vessels. 
-![Atonomy of the eye with fundus view](../images/atonomy_fundus.jpeg) Image credit: [All About Vision](https://www.allaboutvision.com/eye-care/eye-anatomy/fundus/)
+![Atonomy of the eye with fundus view](../images/atonomy_fundus.jpg) Image credit: [All About Vision](https://www.allaboutvision.com/eye-care/eye-anatomy/fundus/)
 
 - retina : a thin layer of tissue at the back of the eye. It itself has multiple layers (rods: low light detection; cones: color vision and details). Light entering the eye hits retina which it processes the light and sends electrical signal to the brain.  
 - macula : a small area (pinhead) at the center of retina in the bacak of the eye. It's function is to provide sharp vision and color preception using cone cells (photoreceptors). On a fundus image, it is the gray area surrounding the dark spot. 
